@@ -2,9 +2,9 @@
 
 Arduino sketch that drives a 128x64 SSD1306 OLED, reads a rotary encoder, selects FV-1 presets via 3 digital lines, switches external ROM banks by button, and outputs three PWM control signals from pots.
 
-Credit goes to Hagiwo, who designed the circuit and whose source code this is based off of. 
-https://note.com/solder_state/n/n1c402a78a0fe
-https://www.patreon.com/hagiwo
+Credit goes to Hagiwo, who designed the circuit and whose source code this is based off of.   
+https://note.com/solder_state/n/n1c402a78a0fe  
+https://www.patreon.com/hagiwo  
 
 presets can be found here:
 https://mstratman.github.io/fv1-programs/
