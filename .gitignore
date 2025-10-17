@@ -1,0 +1,11 @@
+*.eep
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+.build/
+.pio/
+.vscode/.browse.c_cpp.db*
+.DS_Store
